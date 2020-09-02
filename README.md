@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am an Andriod Developer looking to advance my skills>>>
-A cybersecurity newbie hoping to connect with others!
+
+A cybersecurity newbie looking forward to connect with others!
 
 Always happy and ready to learn new things {:relaxed:}
 
