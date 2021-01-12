@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                                  ### Hi there 👋
 
 I am an Andriod Developer looking to advance my skills>>>
 
@@ -6,7 +6,7 @@ A cybersecurity newbie looking forward to connect with others!
 
 Always happy and ready to learn new things {:relaxed:}
 
-Have a nice day && Dont forget to smile  :smiling_face_with_three_hearts:
+ ⚡ Have a nice day && Dont forget to smile  :smiling_face_with_three_hearts:
 
 <!--
 **slightlybae/slightlybae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
