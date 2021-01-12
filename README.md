@@ -1,4 +1,4 @@
-                                                                                    Hi there 👋
+                                                          Hi there 👋
 
 I am an Andriod Developer looking to advance my skills>>>
 
