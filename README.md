@@ -7,6 +7,8 @@ A cybersecurity newbie looking forward to connect with others!
 Always happy and ready to learn new things {:relaxed:}
 
  ⚡ Have a nice day && Dont forget to smile  :smiling_face_with_three_hearts:
+ 
+ ⚡ Fun fact: ...  Always smiling "Can't help it" 😉
 
 <!--
 **slightlybae/slightlybae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
